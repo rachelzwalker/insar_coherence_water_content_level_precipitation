@@ -1,0 +1,1 @@
+Pearson correlation: nan   Max cross_correlation value: 0.9999999903950798   Min cross_correlation value: 0.020833333133230828   Max cross_correlation value scipy: 0.9999999903950798   NLCC: 0.999999986170233
